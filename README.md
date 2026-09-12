@@ -1,7 +1,7 @@
 ### Hi, I'm DienLe 👋
 
 **🧑‍💻 About myself**
-A Software Engineer base, currently focused on learning how game engines work by building one from scratch in C++.
+- A Software Engineer base, currently focused on learning how game engines work by building one from scratch in C++.
 
 **🚧 What I'm currently working on**
 - **Rise Engine** — a Hazel-style C++ game engine (OpenGL rendering pipeline), following TheCherno's Hazel Engine series as a roadmap. Currently working through the ImGui integration, input system, and event handling.
