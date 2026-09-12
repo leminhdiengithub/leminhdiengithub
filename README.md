@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm DienLe 👋
 
-<!--
-**leminhdiengithub/leminhdiengithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 Who I am
+A Software Engineer base, currently focused on learning how game engines work by building one from scratch in C++.
 
-Here are some ideas to get you started:
+## 🚧 What I'm currently working on
+- **Rise Engine** — a Hazel-style C++ game engine (OpenGL rendering pipeline), following TheCherno's Hazel Engine series as a roadmap. Currently working through the ImGui integration, input system, and event handling.
+- A **2D game project in Unity/C#**, used for gameplay and AI implementation practice alongside engine dev.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & tech I use
+- **Languages:** C++, C#
+- **Engine dev:** OpenGL, GLFW, ImGui, Premake5, spdlog
+- **Game dev:** Unity
+- **Learning resources:** TheCherno (Hazel Engine & OpenGL series), LearnOpenGL.com
+
+## 📫 How to reach me
+- Email: leminhdien20043333@gmail.com
